@@ -2,7 +2,7 @@
 Projeto: Apoio Climático
 Descrição: Sistema que auxilia na visualização de alertas climáticos, informações do clima atual e estatísticas regionais,
 e permite preencher um formulário de apoio em situações de emergência climática.
-Autores: Enzo Amá - RM: 562138
+Integrantes: Enzo Amá - RM: 562138
          Leonardo Borges - RM: 565966
          Paulo Henrique - RM: 562179
 """
